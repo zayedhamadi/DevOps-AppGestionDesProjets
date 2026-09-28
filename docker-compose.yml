@@ -45,3 +45,4 @@ networks:
 
 volumes:
   db-data:
+    name: projets-db-data
